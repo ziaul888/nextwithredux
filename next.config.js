@@ -1,5 +1,5 @@
 module.exports = {
   env: {
-    DB_LOCAL_URL: "mongodb://127.0.0.1:27017/bookit",
+    DB_LOCAL_URl: "mongodb://0.0.0.0:27017/bookit",
   },
 };
